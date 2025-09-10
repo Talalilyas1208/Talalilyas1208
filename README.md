@@ -1,17 +1,19 @@
 <!-- Profile Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=40&center=true&vCenter=true&width=1200&height=100&lines=Full+Stack+Developer;Software+Engineer;3%2B+Years+Experience)]()
 
-<hr/>
-
 📫 **How to reach me:**  
 <br/>
 
 <a href="mailto:talaliyas11@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30px" />
+  <img src="https://raw.githubusercontent.com/AlgoMind05/AlgoMind05/main/icons/Gmail_icon_(2020).svg.png" width="30px" />
 </a> &nbsp;
 
-<a href="https://wa.me/923059759377" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="30px" />
+<a href="https://wa.me/923059759377">
+  <img src="https://raw.githubusercontent.com/AlgoMind05/AlgoMind05/main/icons/WhatsApp.svg.png" width="30px" />
+</a> &nbsp;
+
+<a href="https://www.linkedin.com/in/talal-ilyas-76274531a">
+  <img src="https://raw.githubusercontent.com/AlgoMind05/AlgoMind05/main/icons/LI-In-Bug.png" width="30px" />
 </a>
 
 ---
