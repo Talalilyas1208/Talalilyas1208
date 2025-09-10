@@ -16,7 +16,7 @@
   <img src="https://raw.githubusercontent.com/AlgoMind05/AlgoMind05/main/icons/LI-In-Bug.png" width="30px" />
 </a>
 
----
+
 
 <img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
