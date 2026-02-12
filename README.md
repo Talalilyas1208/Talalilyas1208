@@ -1,5 +1,3 @@
-<!-- Profile Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=40&center=true&vCenter=true&width=1200&height=100&lines=Full+Stack+Developer;Software+Engineer;3%2B+Years+Experience)]()
 
 📫 **How to reach me:**  
 <br/>
