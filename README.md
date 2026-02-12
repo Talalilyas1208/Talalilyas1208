@@ -20,13 +20,7 @@
 
 <img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 👨‍💻 About Me  
-- 🚀 Full Stack Developer with **3+ years of experience**  
-- 💡 Skilled in **Frontend & Backend** development  
-- 🌱 Learning **AI & Cloud Technologies**  
-- 🎯 Passionate about **building scalable web apps**  
 
----
 
 ### 🛠️ Technical Skills
 
