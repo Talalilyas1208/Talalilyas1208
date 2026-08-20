@@ -54,11 +54,22 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Talalilyas1208&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stat chart" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talalilyas1208&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <a href="https://github.com/Talalilyas1208">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talalilyas1208&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/Talalilyas1208?label=Followers&style=for-the-badge&color=38BDF8&logo=github)](https://github.com/Talalilyas1208)
+[![GitHub stars](https://img.shields.io/github/stars/Talalilyas1208?label=Total%20Stars&style=for-the-badge&color=F59E0B&logo=apachespark)](https://github.com/Talalilyas1208)
+[![GitHub repos](https://img.shields.io/github/repos-personal/Talalilyas1208?label=Repositories&style=for-the-badge&color=10B981&logo=git)](https://github.com/Talalilyas1208)
+
 </div>
 
 ---
