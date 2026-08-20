@@ -68,7 +68,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Talalilyas1208?label=Followers&style=for-the-badge&color=38BDF8&logo=github)](https://github.com/Talalilyas1208)
 [![GitHub stars](https://img.shields.io/github/stars/Talalilyas1208?label=Total%20Stars&style=for-the-badge&color=F59E0B&logo=apachespark)](https://github.com/Talalilyas1208)
-[![GitHub repos](https://img.shields.io/github/repos-personal/Talalilyas1208?label=Repositories&style=for-the-badge&color=10B981&logo=git)](https://github.com/Talalilyas1208)
+
 
 </div>
 
