@@ -1,168 +1,107 @@
 <div align="center">
 
-# ⚡ MUHAMMAD TALAL ILYAS
-### **AI Systems Architect & Senior Full-Stack React Engineer**
-*BS in Artificial Intelligence • Autonomous Agentic Pipelines • Sub-Second React/Next.js Architectures*
+# Hi there, I'm Muhammad Talal 👋
+### AI Systems & Full-Stack React Engineer
 
-[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Production_System-Talal_AI_Google_Cloud-00F0FF?style=for-the-badge&logo=google-cloud&logoColor=black)](https://talal-ai-portfolio.web.app/)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-Instant_Consultation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923000000000?text=Hi%20Muhammad%20Talal%20Ilyas,%20I%20reviewed%20your%20GitHub%20and%20would%20like%20to%20hire%20you)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talal-ilyas-76274531a)
-[![Email](https://img.shields.io/badge/✉️_Email-talalilyas11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talalilyas11@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=BS+in+Artificial+Intelligence;Building+Autonomous+AI+Agents+%26+LLM+Workflows;Crafting+High-Performance+React+%2F+Next.js+Apps;Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  CORE EXPERTISE: Autonomous LLM Agents • AST Parsing • React 18 / Next.js 14 • Redux Toolkit     │
-│  CLOUD RUNTIME:  Google Cloud (SSD Edge CDN) • Docker Sandboxing • Supabase PostgreSQL           │
-│  AVAILABILITY:   Full-Time Remote Engineering & High-Impact Consulting Worldwide                 │
-└──────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <a href="https://my-portfolio-web-chi-silk.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/talal-ilyas-76274531a" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:talalilyas11@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🏛️ Executive Summary & Engineering Philosophy
+## 👨‍💻 About Me
 
-> *"Most engineers build static UI dashboards. I architect **closed-loop autonomous systems** and **resilient full-stack applications** that diagnose failures, heal code in real time, and scale with deterministic performance."*
-
-- 🎓 **BS in Artificial Intelligence (2023, Superior University Lahore):** Formal foundation in heuristic algorithms, Abstract Syntax Trees (AST), multi-agent coordination, and large language model inference.
-- 🤖 **Flagship Autonomous System:** Engineered a self-healing developer agent with **Google Gemini 1.5 Pro** that observes test failures, extracts AST contexts, executes isolated Dockerized test gates, and commits verified patches with **0 human intervention**.
-- ⚡ **Full-Stack Performance:** Built enterprise financial state machines with **Redux Toolkit normalized caching**, achieving sub-second TTFB, 100% calculation consistency, and atomic rollback on mutation drift.
-
----
-
-## 🏗️ Flagship System Architecture: Self-Healing AI Agent
-
-```mermaid
-flowchart LR
-    subgraph S1["1. OBSERVATION"]
-        A["Watcher Daemon<br/>(Node/Jest Hook)"] -->|"Capture Stack Trace & Exit Code"| B["Failure Interceptor"]
-    end
-
-    subgraph S2["2. AST ANALYSIS"]
-        B --> C["AST Parser & Scope Extractor<br/>(Babel / TS Compiler API)"]
-        C -->|"Minimal Context + Assertion Diff"| D["Prompt Synthesizer"]
-    end
-
-    subgraph S3["3. LLM INFERENCE"]
-        D --> E["Google Gemini 1.5 Pro<br/>(Structured Patch JSON)"]
-    end
-
-    subgraph S4["4. SANDBOXED VERIFICATION"]
-        E -->|"Candidate Patch #1"| F["Docker Isolated Sandbox<br/>(Ephemeral Container)"]
-        F --> G{"Test Suite Pass?<br/>(14/14 Units)"}
-    end
-
-    subgraph S5["5. SOURCE INTEGRATION"]
-        G -->|"YES (100% Pass)"| H["Git Auto-Commit & Semantic Log"]
-        G -->|"NO (Retry / Refine)"| D
-    end
-
-    style S1 fill:#0d1527,stroke:#3b82f6,stroke-width:2px,color:#fff
-    style S2 fill:#0d1527,stroke:#06b6d4,stroke-width:2px,color:#fff
-    style S3 fill:#0d1527,stroke:#8b5cf6,stroke-width:2px,color:#fff
-    style S4 fill:#0d1527,stroke:#10b981,stroke-width:2px,color:#fff
-    style S5 fill:#0d1527,stroke:#6366f1,stroke-width:2px,color:#fff
-```
+- 🎓 **Education:** BS in Artificial Intelligence (AI)
+- 🚀 **Specialization:** Autonomous AI Agents, LLM-powered workflows, and scalable Full-Stack React / Next.js / TypeScript architectures.
+- 🛠️ **Experience:** Building deterministic state machines, full-stack enterprise dashboards, and AI-integrated web applications.
+- 📍 **Location:** Lahore, Pakistan
+- 💬 **Ask me about:** React, Next.js, Node.js, AI Agent orchestration, Prompt Engineering, and TypeScript.
+- ⚡ **Fun fact:** Passionate about closing the loop between AI intelligence and high-speed web apps!
 
 ---
 
-## 🌟 Production Case Studies & Systems
-
-<table>
-  <thead>
-    <tr>
-      <th width="50%">🤖 Autonomous Gemini Code-Fixer & Test Runner</th>
-      <th width="50%">💳 Enterprise Billing & Invoice Platform</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        <p align="center">
-          <a href="https://talal-ai-portfolio.web.app/projects/autonomous-gemini-code-fixer">
-            <img src="https://img.shields.io/badge/⚡_EXPLORE_DEEP_DIVE-00F0FF?style=for-the-badge&logo=google&logoColor=black" />
-          </a>
-        </p>
-        <ul>
-          <li><b>Problem Solved:</b> Developer downtime spent triaging repetitive regressions and type exceptions.</li>
-          <li><b>Core Innovation:</b> Autonomous closed-loop feedback pipeline with AST context isolation & Gemini 1.5 Pro.</li>
-          <li><b>Verification Gate:</b> Ephemeral Docker container running unit suites with zero production pollution.</li>
-          <li><b>Key Metric:</b> ~2.8s automated recovery cycle; 100% test validation accuracy.</li>
-        </ul>
-        <div align="center">
-          <code>Python</code> • <code>Google Gemini API</code> • <code>AST</code> • <code>Docker</code> • <code>Jest/PyTest</code>
-        </div>
-      </td>
-      <td valign="top">
-        <p align="center">
-          <a href="https://talal-ai-portfolio.web.app/projects/enterprise-billing-invoice-platform">
-            <img src="https://img.shields.io/badge/⚡_EXPLORE_DEEP_DIVE-4364F7?style=for-the-badge&logo=react&logoColor=white" />
-          </a>
-        </p>
-        <ul>
-          <li><b>Problem Solved:</b> Complex multi-currency reconciliation errors and UI lag during concurrent bulk updates.</li>
-          <li><b>Core Innovation:</b> Normalized Redux Toolkit state machine with atomic rollback on mutation failures.</li>
-          <li><b>Performance:</b> 20% client page-load latency reduction with sub-second calculations.</li>
-          <li><b>Data Integrity:</b> 100% calculation consistency across volatile network profiles.</li>
-        </ul>
-        <div align="center">
-          <code>React 18</code> • <code>Next.js 14</code> • <code>Redux Toolkit</code> • <code>TypeScript</code> • <code>Tailwind</code>
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-## 🛠️ Technology Stack & Architectural Competencies
-
-```
-┌─────────────────────────┬────────────────────────────────────────────────────────────────────────┐
-│ DOMAIN                  │ TECHNOLOGIES & TOOLS                                                   │
-├─────────────────────────┼────────────────────────────────────────────────────────────────────────┤
-│ 🧠 Agentic AI & LLMs    │ Google Gemini 1.5 Pro, OpenAI GPT-4o, LangChain, RAG Pipelines, AST    │
-│ ⚡ Frontend Systems     │ React 18, Next.js 14 (App Router), TypeScript, JavaScript (ES6+), CSS3 │
-│ 🔄 State Management     │ Redux Toolkit, createSelector (Reselect), Context API, TanStack Query │
-│ 🗄️ Backend & Databases  │ Node.js, Express.js, Supabase, PostgreSQL, REST APIs, GraphQL          │
-│ ☁️ Cloud & DevOps       │ Google Cloud Platform, Firebase Hosting, Docker, Vercel, GitHub CI/CD  │
-│ 🧪 Testing & Quality    │ Jest, React Testing Library, PyTest, Automated Regression Harnesses    │
-└─────────────────────────┴────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📐 Enterprise Architecture Principles
-
-```typescript
-interface ArchitecturalPrinciples {
-  modularity: 'Domain-Driven Component Isolation & Separation of Concerns';
-  statePurity: 'Normalized O(1) Redux Slices with Idempotent Server Reconciliation';
-  typeSafety: 'Strict End-to-End TypeScript Contracts (Zero `any` Pragmas)';
-  observability: 'Telemetry Logging & Sandboxed Validation on Autonomous LLM Calls';
-  availability: 'Worldwide Remote (US, EU, PK Timezone Overlaps)';
-}
-```
-
----
-
-## 📬 Contact & Engineering Consultation
+## 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-Whether you need an **autonomous AI agent pipeline**, a **high-performance React/Next.js frontend**, or a **senior full-stack systems engineer**:
+### 🤖 Artificial Intelligence & LLMs
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[![Visit Portfolio](https://img.shields.io/badge/🌐_Visit_Talal_AI_Portfolio-0052D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://talal-ai-portfolio.web.app/)
-&nbsp;&nbsp;
-[![Chat on WhatsApp](https://img.shields.io/badge/💬_Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923000000000?text=Hi%20Muhammad%20Talal%20Ilyas,%20I%20want%20to%20hire%20you)
-&nbsp;&nbsp;
-[![Send Email](https://img.shields.io/badge/✉️_Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talalilyas11@gmail.com)
+### 💻 Frontend Development
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🧰 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| 🌐 **Personal Portfolio** | `Next.js`, `TypeScript`, `TailwindCSS` | Modern developer portfolio showcasing live systems, projects, and bio. | [Live Demo](https://my-portfolio-web-chi-silk.vercel.app) • [Repo](https://github.com/Talalilyas1208/my-portfolio-web) |
+| 🤖 **AI Billing System** | `JavaScript`, `Node.js`, `AI Models` | Intelligent billing and invoice system with integrated model inference. | [Repo](https://github.com/Talalilyas1208/billing-project-using-models) |
+| 🐔 **Poultry Management System** | `TypeScript`, `React`, `Node.js` | Comprehensive enterprise management dashboard for supply & inventory. | [Repo](https://github.com/Talalilyas1208/poultry-mangement-system-app) |
+| 🏥 **Healthcare Dashboard** | `React.js`, `JavaScript`, `CSS` | Interactive clinical metrics & patient records monitoring panel. | [Repo](https://github.com/Talalilyas1208/healthcare-dashborad) |
+| 📊 **Expense Tracker** | `JavaScript`, `React`, `Local State` | Real-time budget allocation and financial transaction analytics. | [Repo](https://github.com/Talalilyas1208/Expenses-tracker) |
+| 🎓 **Student Portal** | `JavaScript`, `Full-Stack`, `REST API` | Centralized academic portal for course tracking, records, and grading. | [Repo](https://github.com/Talalilyas1208/Student-portal) |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Talalilyas1208&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Talal's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talalilyas1208&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 
 <br/>
 
-```
-© 2026 Muhammad Talal Ilyas • Built with Next.js, TypeScript & Google Cloud
-```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Talalilyas1208&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Website-Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-web-chi-silk.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Talal_Ilyas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talal-ilyas-76274531a)
+[![Email](https://img.shields.io/badge/✉️_Email-talalilyas11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talalilyas11@gmail.com)
 
 </div>
