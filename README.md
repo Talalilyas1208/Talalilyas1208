@@ -1,16 +1,11 @@
-# 3D Client-Hunting GitHub Profile README
-
-Below is the complete, high-converting Markdown code for your **GitHub Profile README (`Talalilyas1208/Talalilyas1208` README.md)**.
-
-```markdown
 <div align="center">
 
   <!-- 3D / Cyberpunk Banner Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=260&section=header&text=Muhammad%20Talal%20Ilyas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full-Stack%20React%20Engineer%20%7C%20Agentic%20Systems%20%26%20LLMs&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=260&section=header&text=Muhammad%20Talal%20Ilyas&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
 
   <!-- Animated Typing Headline -->
   <a href="https://talal-ai-portfolio.web.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Autonomous+LLM+Agents+%26+Self-Healing+Pipelines;Full-Stack+React+18+%26+Next.js+14+Architectures;Google+Gemini+1.5+Pro+%26+OpenAI+Integrations;Sub-Second+Performance+%26+Redux+Toolkit+State;Available+Worldwide+for+High-Impact+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Autonomous+LLM+Agents+%26+Self-Healing+Pipelines;Enterprise+React+18+%7C+Redux+Mastery;AI+Developer+Agent+%7C+Full-Stack+Engineer" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -37,10 +32,10 @@ Below is the complete, high-converting Markdown code for your **GitHub Profile R
 
 ### 🚀 **Executive Summary & Client Value Proposition**
 
-> *"Most developers build static UI templates. I engineer **autonomous agentic systems** and **high-scale React frontends** that self-heal code, automate complex financial logic, and eliminate runtime bottlenecks."*
+> *"Most developers build static UI templates. I engineer **autonomous agentic systems** and **high-scale React frontends** that self-heal code, automate complex financial logic, and eliminate runtime errors."*
 
 - 🎓 **BS in Artificial Intelligence** (*Superior University Lahore, 2023*) — Deep foundations in autonomous decision pipelines, heuristic search, AST analysis, and LLM reasoning.
-- ⚡ **Flagship Innovation:** Built a closed-loop **Self-Healing AI Developer Agent** with Gemini 1.5 Pro that catches runtime exceptions, isolates AST context, and validates sandboxed patches with 0 human intervention.
+- ⚡ **Flagship Innovation:** Built a closed-loop **Self-Healing AI Developer Agent** with Gemini 1.5 Pro that catches runtime exceptions, isolates AST context, and validates sandboxed patches with 0 false positives.
 - 🏢 **Production React & Redux:** Built enterprise billing platforms with normalized state caching, optimistic UI reconciliation, and sub-second Core Web Vitals.
 - 🌐 **Global Availability:** Available for **Full-Time Remote Roles**, **Contract Engineering**, and **High-Impact AI Consulting** worldwide.
 
@@ -113,16 +108,16 @@ Below is the complete, high-converting Markdown code for your **GitHub Profile R
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Talalilyas1208&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=4364F7&text_color=c9d1d9" height="175" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Talalilyas1208&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=4364F7&text_color=c9d1d9" height="175" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talalilyas1208&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" height="175" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talalilyas1208&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" height="175" />
       </td>
     </tr>
   </table>
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talalilyas1208&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talalilyas1208&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" width="420" />
 
 </div>
 
@@ -167,4 +162,3 @@ interface ClientValueProposition {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=120&section=footer" width="100%" />
 
 </div>
-```
