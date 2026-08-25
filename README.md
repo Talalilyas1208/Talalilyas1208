@@ -113,8 +113,7 @@
     </tr>
   </table>
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talalilyas1208&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" width="420" />
+ 
 
 </div>
 
