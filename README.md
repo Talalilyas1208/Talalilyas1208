@@ -121,15 +121,17 @@
 
 ### 🤝 **Why Engineering Teams & Clients Hire Me**
 
-```typescript
-interface ClientValueProposition {
-  communication: 'Asynchronous + Synchronous (US, EU, PK Timezone Overlaps)';
-  turnaroundTime: 'High Velocity (+25% Feature Delivery Speed)';
-  codeQuality: '100% Type-Safe TypeScript, Modular Component Isolation, Clean Architecture';
-  aiSpecialization: 'Formal Degree in AI + Production Self-Healing Agents';
-  hireAvailability: 'Immediate (Full-Time Remote / Contract)';
-}
-```
+<div align="center">
+
+| Category | Value |
+| :-- | :-- |
+| **Communication** | Asynchronous + Synchronous (US, EU, PK Timezone Overlaps) |
+| **Turnaround Time** | High Velocity (+25% Feature Delivery Speed) |
+| **Code Quality** | 100% Type-Safe TypeScript, Modular Component Isolation, Clean Architecture |
+| **AI Specialization** | Formal Degree in AI + Production Self-Healing Agents |
+| **Hire Availability** | Immediate (Full-Time Remote / Contract) |
+
+</div>
 
 ---
 
