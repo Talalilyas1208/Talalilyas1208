@@ -83,20 +83,20 @@
 </table>
 
 ---
-
-### 🛠️ **Technical Skill Matrix**
+### 🤝 **Why Engineering Teams & Clients Hire Me**
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **🧠 Agentic AI & LLMs** | `Google Gemini 1.5 Pro` `OpenAI GPT-4o` `LangChain` `RAG Pipelines` `AST Code Parsers` `Prompt Engineering` |
-| **⚡ Frontend Engineering** | `React 18` `Next.js 14 (App Router)` `TypeScript` `JavaScript (ES6+)` `HTML5 / CSS3` `Tailwind CSS` |
-| **🔄 State & Data Flow** | `Redux Toolkit` `createSelector (Reselect)` `React Context API` `TanStack Query` `Zustand` |
-| **🗄️ Backend & Databases** | `Node.js` `Express.js` `Supabase` `PostgreSQL` `REST APIs` `GraphQL` |
-| **☁️ DevOps & Cloud** | `Google Cloud Platform` `Firebase Hosting` `Docker` `Vercel` `Git & GitHub Actions CI/CD` |
+| Category | Value |
+| :-- | :-- |
+| **Communication** | Asynchronous + Synchronous (US, EU, PK Timezone Overlaps) |
+| **Turnaround Time** | High Velocity (+25% Feature Delivery Speed) |
+| **Code Quality** | 100% Type-Safe TypeScript, Modular Component Isolation, Clean Architecture |
+| **AI Specialization** | Formal Degree in AI + Production Self-Healing Agents |
+| **Hire Availability** | Immediate (Full-Time Remote / Contract) |
 
 </div>
+
 
 ---
 
