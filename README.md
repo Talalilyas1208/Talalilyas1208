@@ -108,9 +108,6 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Talalilyas1208&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=4364F7&text_color=c9d1d9" height="175" />
-      </td>
-      <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talalilyas1208&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" height="175" />
       </td>
     </tr>
