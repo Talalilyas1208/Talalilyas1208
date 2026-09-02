@@ -25,7 +25,7 @@
 
 - 🎓 **Education:** BS in Artificial Intelligence (AI)
 - 🚀 **Specialization:** Autonomous AI Agents, LLM-powered workflows, and scalable Full-Stack React / Next.js / TypeScript architectures.
-- 🛠️ **Experience:** Building deterministic state machines, full-stack enterprise dashboards, and AI-integrated web applications.
+- 🛠️ **Experience:** Building deterministic state machines, full-stack enterprise dashboards, real-time POS systems, and AI-integrated web applications.
 - 📍 **Location:** Lahore, Pakistan
 - 💬 **Ask me about:** React, Next.js, Node.js, AI Agent orchestration, Prompt Engineering, and TypeScript.
 - ⚡ **Fun fact:** Passionate about closing the loop between AI intelligence and high-speed web apps!
@@ -70,8 +70,9 @@
 
 ## 🌟 Featured Projects
 
-| Project | Tech Stack | Highlights | Links |
+| Project | Tech Stack | Highlights | Status / Links |
 | :--- | :--- | :--- | :--- |
+| 🍽️ **Restaurant POS System** | `React`, `TypeScript`, `Node.js`, `Express` | Full-featured Point of Sale (POS) system for live table ordering, kitchen dispatch, & instant billing. | ![WIP](https://img.shields.io/badge/🚧_Status-In_Progress-FFA500?style=flat-square) • [Repo](https://github.com/Talalilyas1208) |
 | 🌐 **Personal Portfolio** | `Next.js`, `TypeScript`, `TailwindCSS` | Modern developer portfolio showcasing live systems, projects, and bio. | [Live Demo](https://my-portfolio-web-chi-silk.vercel.app) • [Repo](https://github.com/Talalilyas1208/my-portfolio-web) |
 | 🤖 **AI Billing System** | `JavaScript`, `Node.js`, `AI Models` | Intelligent billing and invoice system with integrated model inference. | [Repo](https://github.com/Talalilyas1208/billing-project-using-models) |
 | 🐔 **Poultry Management System** | `TypeScript`, `React`, `Node.js` | Comprehensive enterprise management dashboard for supply & inventory. | [Repo](https://github.com/Talalilyas1208/poultry-mangement-system-app) |
